@@ -29,6 +29,7 @@ Stabilire degli standard di qualità o di nomenclatura pensiamo possa rendere mi
 ## Dove siamo
 
 - <https://www.linkedin.com/groups/8315386/>
+- <https://github.com/codecrm/crm-dev-it>
 
 ## Parlano di noi
 

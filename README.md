@@ -21,6 +21,11 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 - Integrazioni di sistemi di posta elettronica e CRM
 - Mantenimento di infrastrtture informatiche per ospitare CRM
 
+## La nostra missione
+
+Stiamo lavorando per dare rilievo alla figura del CRM Developer, il motivo di fondo è quello di fissare le competenze del settore CRM.
+Stabilire degli standard di qualità o di nomenclatura pensiamo possa rendere migliore lavoro di tutti...
+
 ## Dove siamo
 
 - https://www.linkedin.com/groups/8315386/

@@ -9,6 +9,9 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 - Integrare CRM esistenti con software gestionali
 - Modificare o aggiornare software CRM
 - Creare o modificare moduli o plugin per i CRM
+- Creare o modificare template o interfacce grafiche per i CRM
+- Gestione delle traduzione e dei file di lingua dei CRM
+- Realizzazione template HTML e CSS per marketing con CRM
 - Importare o esportare dati da e su un CRM
 - Installare o deployare software CRM
 - Implementare librerie o client per i software CRM basati su API

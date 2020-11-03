@@ -46,6 +46,10 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 
 - 
 
+## Supporta la community
+
+- [:heart: Sponsor](https://github.com/sponsors/codecrm)
+
 ## Parlano di noi
 
 - <https://www.linkedin.com/feed/update/urn:li:activity:6726450827231399938/>

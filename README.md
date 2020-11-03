@@ -2,14 +2,14 @@
 
 Siamo la community italina dei CRM Developer ed appassionati di CRM.
 
-## La nostra missione
+## La nostra missione 🚀
 
 Stiamo lavorando per dare rilievo alla figura del CRM Developer, il motivo di fondo è quello di fissare le competenze del settore CRM.
 Stabilire degli standard di qualità o di nomenclatura pensiamo possa rendere migliore lavoro di tutti...
 
 > Discuti la nostra missione [qui](https://github.com/codecrm/crm-dev-it/issues/1)
 
-## Chi è un CRM Developer?
+## Chi è un CRM Developer? 🧐
 
 Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di una o più di queste attività:
 
@@ -28,33 +28,33 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 - Integrazioni di sistemi di posta elettronica e CRM
 - Mantenimento di infrastrtture informatiche per ospitare CRM
 
-## Entra nella community
+## Entra nella community 🚌
 
 - [Welcome Dev](WELCOME.md)
 
-## Dove siamo
+## Dove siamo 🗺
 
 - <https://www.linkedin.com/groups/8315386/>
 - <https://github.com/codecrm/crm-dev-it>
 
-## Lascia il segno
+## Lascia il segno 🖋
 
 - [https://it.surveymonkey.com/r/57V86W3](https://it.surveymonkey.com/r/57V86W3)
 
-## Noi su GitHub
+## Noi su GitHub 👾
 
 - 
 -
 
-## Pubblica la tua BIO
+## Pubblica la tua BIO 📘
 
 - 
 
-## Supporta la community
+## Supporta la community 💖
 
 - [:heart: Sponsor](https://github.com/sponsors/codecrm)
 
-## Parlano di noi
+## Parlano di noi 🔗
 
 - <https://www.linkedin.com/feed/update/urn:li:activity:6726450827231399938/>
 - <https://www.facebook.com/groups/programmatoriunder18/permalink/2880504488849700>

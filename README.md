@@ -30,7 +30,7 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 
 ## Entra nella community 🚌
 
-- [Welcome Dev](WELCOME.md)
+- [Fai il primo passo](WELCOME.md)
 
 ## Dove siamo 🗺
 

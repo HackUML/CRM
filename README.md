@@ -7,6 +7,8 @@ Siamo la community italina dei CRM Developer ed appassionati di CRM.
 Stiamo lavorando per dare rilievo alla figura del CRM Developer, il motivo di fondo è quello di fissare le competenze del settore CRM.
 Stabilire degli standard di qualità o di nomenclatura pensiamo possa rendere migliore lavoro di tutti...
 
+> Discuti la nostra missione [qui](https://github.com/codecrm/crm-dev-it/issues/1)
+
 ## Chi è un CRM Developer?
 
 Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di una o più di queste attività:

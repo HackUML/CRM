@@ -43,7 +43,7 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 
 ## Noi su GitHub 👾
 
-- [Francesco Bianco](https://github.com/francescobianco)
+- Francesco Bianco ([francescobianco](https://github.com/francescobianco))
 
 ## Pubblica la tua BIO 📘
 

@@ -37,10 +37,6 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 - [Gruppo Ufficiale su LinkedIn](https://www.linkedin.com/groups/8315386/)
 - [La nostra repository su GitHub](https://github.com/codecrm/crm-dev-it)
 
-## Lascia il segno 🖋
-
-- [Partecipa al sondaggio](https://it.surveymonkey.com/r/57V86W3)
-
 ## Noi su GitHub 👾
 
 -  [Francesco Bianco](https://github.com/francescobianco)
@@ -50,6 +46,10 @@ Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di un
 Scrivi la la tua biografia professionale e le tue esperienze nel mondo CRM
 
 - [Inizia adesso](https://github.com/codecrm/crm-dev-it/new/main/bio)
+
+## Lascia il segno 🖋
+
+- [Partecipa al sondaggio](https://it.surveymonkey.com/r/57V86W3)
 
 ## Supporta la community 💖
 

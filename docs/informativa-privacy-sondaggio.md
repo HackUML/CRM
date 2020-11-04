@@ -13,17 +13,17 @@ Il rifiuto a fornire i dati comporta l'impossibilità di partecipare ai sondaggi
 I dati personali forniti dagli utenti sono utilizzati 
 al solo fine di conoscere le idee degli attori nel mondo dell'informatica in merito alle tematiche CRM.
 
-MODALITÀ PER IL TRATTAMENTO DEI DATI
+## MODALITÀ PER IL TRATTAMENTO DEI DATI
 
 I dati raccolti sono trattati con strumenti informatici. 
 Idonee misure di sicurezza sono osservate per prevenire la perdita dei dati, usi illeciti o non corretti ed accessi non autorizzati.
 
-IL TITOLARE DEL TRATTAMENTO
+## IL TITOLARE DEL TRATTAMENTO
 
 Il "titolare" del loro trattamento è Ing. Francesco Bianco che ha sede in Via Piave, 49 - 91022 Castelvetrano (TP) - Italia. 
 I trattamenti di dati connessi alla partecipazione a sondaggi hanno luogo presso la predetta sede e sono curati da Ing. Francesco Bianco. 
 
-DIRITTI DEGLI INTERESSATI
+## DIRITTI DEGLI INTERESSATI
 
 I soggetti cui si riferiscono i dati personali hanno il diritto in qualunque momento 
 di ottenere la conferma dell'esistenza o meno dei medesimi dati e di conoscerne il contenuto e l'origine, 

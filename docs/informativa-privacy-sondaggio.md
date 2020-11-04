@@ -4,7 +4,7 @@
 
 Informativa per il trattamento dei dati personali ai sensi dell’art. 13 del D.Lgs. 196/2003 e dell’articolo 13 del Regolamento (UE) n. 2016/679
 La presente informativa è resa ai sensi dell’art. 13 del D.Lgs. 196/2003 e dell’articolo 13 del Regolamento (UE) n. 2016/679
-La partecipazione ai sondaggi di Errevi System è possibile autorizzando Ing. Francesco Bianco (promotore del progetto CodeCRM) 
+La partecipazione ai sondaggi di CodeCRM è possibile autorizzando Ing. Francesco Bianco (promotore del progetto CodeCRM) 
 al trattamento dei propri dati personali. Il conferimento dei dati è facoltativo. 
 Il rifiuto a fornire i dati comporta l'impossibilità di partecipare ai sondaggi proposti per CodeCRM. 
 

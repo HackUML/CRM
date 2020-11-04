@@ -11,7 +11,7 @@ Stabilire degli standard di qualità o di nomenclatura pensiamo possa rendere mi
 
 ## Chi è un CRM Developer? 🧐
 
-Uno CRM Developer è uno sviluppatore software che si occupa a tempo pieno di una o più di queste attività:
+Un CRM Developer è uno sviluppatore software che si occupa a tempo pieno di una o più di queste attività:
 
 - Integrare CRM esistenti con software gestionali
 - Modificare o aggiornare software CRM

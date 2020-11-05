@@ -64,6 +64,7 @@ Scrivi la la tua biografia professionale e le tue esperienze nel mondo CRM
 - <https://www.facebook.com/groups/itadev/permalink/3704505869616144>
 - <https://www.facebook.com/groups/798557090204191/permalink/3561037410622798>
 - <https://www.facebook.com/groups/sviluppatoriweb/permalink/3609984255728476>
+- <https://www.facebook.com/groups/sviluppatoriweb/permalink/3638537276206507>
 - <https://www.facebook.com/groups/developerItaly/permalink/1300787833605084>
 - <https://www.facebook.com/groups/1703058016594724/permalink/2951413421759171>
 - <https://www.facebook.com/programmareperlagloria/posts/382815843097560>

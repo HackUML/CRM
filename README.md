@@ -1,6 +1,6 @@
 # CRM Developer - Italia 🇮🇹
 
-Siamo la community italina dei CRM Developer ed appassionati di CRM.
+Siamo la community italina dei **CRM Developer** ed appassionati di CRM.
 
 ## La nostra missione 🚀
 

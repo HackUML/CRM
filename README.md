@@ -70,3 +70,4 @@ Scrivi la la tua biografia professionale e le tue esperienze nel mondo CRM
 - <https://www.facebook.com/groups/1703058016594724/permalink/2951413421759171>
 - <https://www.facebook.com/programmareperlagloria/posts/382815843097560>
 - <https://www.facebook.com/programmareperlagloria/posts/391567895555688>
+- <https://www.facebook.com/groups/programmatoriitaliani/permalink/4387640561306173>

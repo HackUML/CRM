@@ -60,6 +60,7 @@ Scrivi la la tua biografia professionale e le tue esperienze nel mondo CRM
 - <https://www.linkedin.com/posts/bianco1981_crm-activity-6730161533751496704-COp->
 - <https://www.linkedin.com/feed/update/urn:li:activity:6726450827231399938/>
 - <https://www.facebook.com/groups/programmatoriunder18/permalink/2880504488849700>
+- <https://www.facebook.com/groups/programmatoriunder18/permalink/2889733994593416>
 - <https://www.facebook.com/groups/itadev/permalink/3704505869616144>
 - <https://www.facebook.com/groups/798557090204191/permalink/3561037410622798>
 - <https://www.facebook.com/groups/sviluppatoriweb/permalink/3609984255728476>

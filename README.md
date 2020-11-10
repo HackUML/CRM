@@ -1,3 +1,5 @@
+[![CRM](header.png)](https://italia.codecrm.org)
+
 # CRM Developer - Italia 🇮🇹
 
 Siamo la community italina dei **CRM Developer** ed appassionati di CRM.

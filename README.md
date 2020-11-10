@@ -1,4 +1,4 @@
-[![CRM](header.png)](https://italia.codecrm.org)
+[![CRM](https://github.com/codecrm/crm-dev-it/raw/main/header.png)](https://italia.codecrm.org)
 
 # CRM Developer - Italia 🇮🇹
 
